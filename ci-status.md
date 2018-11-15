@@ -1,0 +1,14 @@
+
+
+|Project | Windows | Linux | 
+|:------:|:------:|:------:|
+| zlib   | [![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/conanos/zlib?svg=true)](https://ci.appveyor.com/project/Mingyiz/zlib) |[![Linux Build Status](https://api.travis-ci.org/conanos/zlib.svg)](https://travis-ci.org/conanos/zlib)|
+| bzip2  | [![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/conanos/bzip2?svg=true)](https://ci.appveyor.com/project/Mingyiz/bzip2-qo8a3) |[![Linux Build Status](https://api.travis-ci.org/conanos/bzip2.svg)](https://travis-ci.org/conanos/bzip2)|
+| expat  | [![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/conanos/expat?svg=true)](https://ci.appveyor.com/project/Mingyiz/expat) |[![Linux Build Status](https://api.travis-ci.org/conanos/expat.svg)](https://travis-ci.org/conanos/expat)|
+| libiconv | [![Build status](https://ci.appveyor.com/api/projects/status/github/conanos/libiconv?svg=true)](https://ci.appveyor.com/Mingyiz/libiconv)|[![Build Status](https://travis-ci.org/conanos/libiconv.svg)](https://travis-ci.org/conanos/libiconv)|
+| libxml2 |[![Build status](https://ci.appveyor.com/api/projects/status/github/conanos/libxml2?svg=true)](https://ci.appveyor.com/project/Mingyiz/libxml2)|[![Build Status](https://travis-ci.org/conanos/libxml2.svg)](https://travis-ci.org/conanos/libxml2)|
+| libjpeg-turbo |[![Build status](https://ci.appveyor.com/api/projects/status/github/conanos/libjpeg-turbo?svg=true)](https://ci.appveyor.com/project/Mingyiz/libjpeg-turbo)|[![Build Status](https://travis-ci.org/conanos/libjpeg-turbo.svg)](https://travis-ci.org/conanos/libjpeg-turbo)|
+| libtiff |[![Build status](https://ci.appveyor.com/api/projects/status/github/conanos/libtiff?svg=true)](https://ci.appveyor.com/project/Mingyiz/libtiff)|[![Build Status](https://travis-ci.org/conanos/libtiff.svg)](https://travis-ci.org/conanos/libtiff)|
+| libpng |[![Build status](https://ci.appveyor.com/api/projects/status/github/conanos/libpng?svg=true)](https://ci.appveyor.com/project/Mingyiz/libpng)|[![Build Status](https://travis-ci.org/conanos/libpng.svg)](https://travis-ci.org/conanos/libpng)|
+| freetype |[![Build status](https://ci.appveyor.com/api/projects/status/github/conanos/freetype?svg=true)](https://ci.appveyor.com/project/Mingyiz/freetype)|[![Build Status](https://travis-ci.org/conanos/freetype.svg)](https://travis-ci.org/conanos/freetype)|
+| pixman |[![Build status](https://ci.appveyor.com/api/projects/status/github/conanos/pixman?svg=true)](https://ci.appveyor.com/project/Mingyiz/pixman)|[![Build Status](https://travis-ci.org/conanos/pixman.svg)](https://travis-ci.org/conanos/pixman)|
